@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - KVNProgress (2.3)
+  - Masonry (1.0.1)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - UMengSocialCOM (5.2.1)
+  - YYModel (0.9.12)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - FMDB
+  - KVNProgress
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - SDWebImage
+  - UMengSocialCOM (~> 5.2.0)
+  - YYModel (~> 0.9.12)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  KVNProgress: d0459bfa4dca0379cdba5c038326ea34e9fc2df9
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+  YYModel: 33a27f41a995f4c36ff8178421bac9f221a9c7ea
+
+PODFILE CHECKSUM: 6c519babb3368f4b1869703079b7153caf63bda4
+
+COCOAPODS: 1.0.1

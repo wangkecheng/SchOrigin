@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>星系</string>
+		<key>imageNormal</key>
+		<string>galaxy</string>
+		<key>imagePress</key>
+		<string>galaxyPress</string>
+		<key>className</key>
+		<string>GalaxyViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>探索</string>
+		<key>imageNormal</key>
+		<string>explorer</string>
+		<key>imagePress</key>
+		<string>explorerPress</string>
+		<key>className</key>
+		<string>ExploreViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>朋友圈</string>
+		<key>imageNormal</key>
+		<string>friendC</string>
+		<key>imagePress</key>
+		<string>friendCPress</string>
+		<key>className</key>
+		<string>FriendCircleViewContro</string>
+	</dict>
+</array>
+</plist>

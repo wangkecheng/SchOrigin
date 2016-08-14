@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>最近聊天</string>
+		<key>className</key>
+		<string>SOChatRecentlyVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>系统通知</string>
+		<key>className</key>
+		<string>SONotifyBySystemVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>与我相关</string>
+		<key>className</key>
+		<string>SORelateToMyselfVC</string>
+	</dict>
+</array>
+</plist>

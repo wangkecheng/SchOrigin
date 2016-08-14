@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>星球</string>
+		<key>className</key>
+		<string>StarViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>用户</string>
+		<key>className</key>
+		<string>PagerUserVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>内容</string>
+		<key>className</key>
+		<string>PagerContentVC</string>
+	</dict>
+</array>
+</plist>
